@@ -25,5 +25,7 @@ A modern travel website built using **Node.js, Express, and EJS** showcasing bea
 - CSS3
 
 ---
+installation 
 
-## 📁 Project Structure
+npm install
+node index.js
