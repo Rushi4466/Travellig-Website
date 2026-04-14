@@ -44,6 +44,6 @@ app.get("/", (req, res) => {
 });
 
 // server
-app.listen(4000, () => {
-  console.log("Server running at http://localhost:4000");
+app.listen(4000, '0.0.0.0', () => {
+  console.log("Server running on port 4000");
 });
